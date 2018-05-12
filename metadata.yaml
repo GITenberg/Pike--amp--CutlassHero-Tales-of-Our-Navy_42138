@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4037
     wikipedia: https://en.wikipedia.org/wiki/George_Fort_Gibbs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42138#Pike--amp--CutlassHero-Tales-of-Our-Navy
 gutenberg_issued: '2013-02-20'
 gutenberg_type: Text
 identifiers:
